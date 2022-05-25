@@ -1,5 +1,5 @@
-- 👋 Hi, I’m michal
-- 👀 I’m interested in geography, tech, 
+- 👋 Hi, I’m Michal
+- 👀 I’m interested in geography, tech, climat and nature  
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on wild branches connected to IT and geo
 - 📫 How to reach me 00mihu(a)gmail
