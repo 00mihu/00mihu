@@ -1,5 +1,5 @@
-- 👋 Hi, Michal here. I am a passionate about IT and GIS. Seamlessly merging technology and spatial analysis for insightful solutions.
-
+- 👋 Hi, Michal here,
+technology and geography passionate, seamlessly integrating code as a programmer and spatial analysis skills as a GIS analyst. I would love to harness both these to craft intelligent solutions.
  
  <!-- I’m Michal
 - 👀 I’m interested in geography, tech, climat and nature  
