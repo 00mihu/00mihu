@@ -1,4 +1,5 @@
-<!-- 👋 Hi, Michal here <br> -->
+ 👋 Hej
+ <!--, Michal here <br> -->
  <!---
 technology 🖥 and geography 🌍 passionate, seamlessly integrating code as a programmer and spatial analysis skills as a GIS analyst. I would love to harness both these to craft intelligent solutions. 🌱🌱🌱
  -->
